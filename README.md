@@ -1,4 +1,3 @@
 # My Portfolio
 
-The Portfolio depicts my skills, education, experiences and projects.
-
+This portfolio represents my skills, experience, projects and education.
