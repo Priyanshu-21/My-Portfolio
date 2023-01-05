@@ -117,7 +117,7 @@ ul#slide-out li:not(.logo) a span {
 
 /* main tag | Used to format the words correctly */
 main {
-  background: url(../../assets/Img/bg.png) repeat;
+  background: url(../Img/bg.png) repeat;
   padding-left: 190px;
 }
 
